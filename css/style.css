@@ -40,7 +40,19 @@ html {
 	-ms-text-size-adjust: none;
 	-webkit-text-size-adjust: none;
 }
+.gsib_b {
+  display: none;
+}
+.gsc-input table{
+	margin: 0px;
+}
 
+.gsc-search-button, .gsc-input{
+	border: 0px !important;
+}
+.gsc-above-wrapper-area{
+	display: none;
+}
 body {
 	margin: 0;
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
